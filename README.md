@@ -1,7 +1,7 @@
 # Rentiz-Website
 Rentiz Website Responsive
 
--Красивая адаптивная страница [посмотрите сами](valeria-99.github.io/rentiz-website/).
+-Красивая адаптивная страница [посмотрите сами](https://valeria-99.github.io/Rentiz-Website/).
 -Сайт по продаже недвижимости 
 -Адаптивный сайт создан с помощью макета
 -С использованием HTML, SCSS, JavaScript, Swiper.js
