@@ -1,5 +1,6 @@
 # Rentiz-Website
 Rentiz Website Responsive
+![Rentiz-Website](https://github.com/Valeria-99/Rentiz-Website/assets/86023695/960730d1-9b10-4447-9a0a-85aada96a969)
 
 -Красивая адаптивная страница [посмотрите сами](https://valeria-99.github.io/Rentiz-Website/).
 -Сайт по продаже недвижимости 
